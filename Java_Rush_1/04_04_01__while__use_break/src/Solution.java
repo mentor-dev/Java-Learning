@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class Solution {
     public static void main(String[] args) throws Exception {
         String stop_word = "enough";
         Scanner scan = new Scanner(System.in);

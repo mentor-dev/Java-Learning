@@ -1,3 +1,4 @@
+**Завдання:**  
 Потрібно зчитувати з клавіатури цілі числа доти, доки не буде введено щось інше: наприклад, рядок або символ.  
 Потрібно ввести щонайменше два числа. Якщо введено менше двох цілих чисел, то таку ситуацію обробляти не потрібно, а програма може завершитися з помилкою.  
 Вивести на екран друге за величиною ціле число після мінімального серед уведених з клавіатури. Якщо таких чисел декілька, потрібно вивести будь-яке з них.  
@@ -26,3 +27,46 @@ exit
 • Програма повинна виводити на екран друге мінімальне число серед уведених цілих чисел.  
 • Якщо введено кілька других мінімальних чисел, потрібно вивести будь-яке з них.  
 • Зчитувати дані з клавіатури потрібно в циклі while.  
+
+---
+
+**Start code:**  
+```java
+import java.util.Scanner;
+
+/* 
+Друге мінімальне число серед уведених
+*/
+
+public class Solution {
+    public static void main(String[] args) {
+        //напишіть тут ваш код
+    }
+}
+```
+
+---
+
+**My solution: [Link](./src/Solution.java)**  
+```java
+import java.util.Scanner;
+
+public class Solution {
+    public static void main(String[] args) throws Exception {
+        Scanner scan = new Scanner(System.in);
+        int min = Integer.MAX_VALUE;
+        int min_2 = Integer.MAX_VALUE;
+        while (scan.hasNextInt()) {
+            int num = scan.nextInt();
+            if (num < min) {
+                min_2 = min;
+                min = num;
+            } else if (num < min_2 && num != min) {
+                min_2 = num;
+            }
+        }
+        scan.close();
+        System.out.print(min_2);
+    }
+}
+```

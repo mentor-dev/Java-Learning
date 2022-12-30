@@ -1,4 +1,4 @@
-public class App {
+public class Solution {
     public static void main(String[] args) throws Exception {
         int start_number = 1;
         int end_number = 100;

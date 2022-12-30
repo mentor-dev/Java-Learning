@@ -1,7 +1,7 @@
-public class App {
+public class Solution {
     public static void main(String[] args) {
-        String sign_border = "Б";
-        String sign_solid = " ";
+        String symbol_border = "Б";
+        String symbol_solid = " ";
         int rows = 10;
         int columns = 20;
         int rows_ind = 0;
@@ -9,12 +9,12 @@ public class App {
             int columns_ind = 0;
             while (columns_ind < columns) {
                 if (rows_ind == 0 || rows_ind == (rows - 1)) {
-                    System.out.print(sign_border);
+                    System.out.print(symbol_border);
                 } else {
                     if (columns_ind == 0 || columns_ind == (columns - 1)) {
-                        System.out.print(sign_border);
+                        System.out.print(symbol_border);
                     } else {
-                        System.out.print(sign_solid);
+                        System.out.print(symbol_solid);
                     }
                 }
                 columns_ind++;

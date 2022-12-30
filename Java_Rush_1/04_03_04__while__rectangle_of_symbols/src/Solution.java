@@ -1,5 +1,4 @@
-public class App {
-
+public class Solution {
     public static void main(String[] args) throws Exception {
         String sign = "Q";
         int rows = 5;

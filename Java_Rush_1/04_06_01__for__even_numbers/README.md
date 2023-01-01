@@ -1,21 +1,21 @@
+### **Завдання:** 
+
 Напиши програму, де за допомогою циклу `for` виводяться на екран парні числа від `1` до `15`.
 Кожне значення потрібно вивести з нового рядка.
 
 ---
 
-**Вимоги:**  
+### **Вимоги:**  
+
 • Програма повинна виводити текст на екран.  
 • Програма повинна виводити парні числа від 1 до 15. Кожне значення вивести з нового рядка.  
 • У програмі потрібно використовувати цикл for.
 
 ---
 
-**Start code:**  
-```java
-/* 
-Парні числа
-*/
+### **Start code:**  
 
+```java
 public class Solution {
     public static void main(String[] args) {
         //напишіть тут ваш код
@@ -25,7 +25,8 @@ public class Solution {
 
 ---
 
-**My solution: [Link](./src/Solution.java)**  
+### **My solution: [Link](./src/Solution.java)**  
+
 ```java
 public class Solution {
     public static void main(String[] args) {

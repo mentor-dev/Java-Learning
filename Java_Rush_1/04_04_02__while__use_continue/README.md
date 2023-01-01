@@ -1,4 +1,5 @@
-**Завдання:**  
+### **Завдання:** 
+
 Вивести на екран суму чисел від `1` до `100` включно, які не кратні `3`.  
 Використай для цього цикл `while`.
 
@@ -7,33 +8,31 @@
 
 ---
 
-**Вимоги:**  
+### **Вимоги:**  
+
 • Програма повинна вивести в консоль суму всіх чисел від 1 до 100 включно, які не кратні 3.  
 • У програмі потрібно використовувати цикл while.  
 • У програмі потрібно використовувати оператор continue.  
 
 ---
 
-**Start code:**  
-```java
-/* 
-Сума чисел, не кратних 3
-*/
+### **Start code:**  
 
+```java
 public class Solution {
     public static void main(String[] args) {
         //напишіть тут ваш код
-
     }
 }
 ```
 
 ---
 
-**My solution: [Link](./src/Solution.java)**  
+### **My solution: [Link](./src/Solution.java)**  
+
 ```java
 public class Solution {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         int start_number = 1;
         int end_number = 100;
         int i = start_number - 1;

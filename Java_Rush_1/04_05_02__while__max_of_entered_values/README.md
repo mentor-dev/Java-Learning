@@ -1,4 +1,5 @@
-**Завдання:**  
+### **Завдання:** 
+
 Програма повинна зчитувати з клавіатури цілі числа доти, доки не буде введено щось інше: наприклад, рядок або символ.  
 Виведи на екран максимальне парне число серед уведених чисел. Якщо введено кілька таких чисел, потрібно вивести будь-яке з них.
 
@@ -18,7 +19,8 @@ e
 
 ---
 
-**Вимоги:**  
+### **Вимоги:**  
+
 • Програма повинна зчитувати числа з клавіатури.  
 • Програма повинна виводити число на екран.  
 • Програма повинна виводити на екран максимальне парне число серед уведених цілих чисел.  
@@ -28,13 +30,10 @@ e
 
 ---
 
-**Start code:**  
+### **Start code:**  
+
 ```java
 import java.util.Scanner;
-
-/* 
-Максимум серед уведених чисел
-*/
 
 public class Solution {
     public static void main(String[] args) {
@@ -45,12 +44,13 @@ public class Solution {
 
 ---
 
-**My solution: [Link](./src/Solution.java)**  
+### **My solution: [Link](./src/Solution.java)**  
+
 ```java
 import java.util.Scanner;
 
 public class Solution {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int max = Integer.MIN_VALUE;
         int num;
@@ -66,5 +66,4 @@ public class Solution {
         }
     }
 }
-
 ```

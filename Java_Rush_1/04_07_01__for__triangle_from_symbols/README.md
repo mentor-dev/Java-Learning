@@ -1,3 +1,5 @@
+### **Завдання:** 
+
 Спробуй вивести на екран прямокутний трикутник із вісімок зі сторонами (катетами) `10` і `10`, використовуючи цикл `for`.  
 Тобто в першому рядку має бути одна цифра `8` з лівого боку, у другому - дві і т. д.
 
@@ -17,7 +19,8 @@
 
 ---
 
-**Вимоги:**  
+### **Вимоги:**  
+
 • Програма повинна виводити числа на екран.  
 • Програма повинна виводити прямокутний трикутник із вісімок зі сторонами 10 і 10.  
 • У програмі потрібно використовувати цикл for.  
@@ -25,7 +28,8 @@
 
 ---
 
-**Start code:**  
+### **Start code:**  
+
 ```java
 public class Solution {
     public static void main(String[] args) {
@@ -36,7 +40,8 @@ public class Solution {
 
 ---
 
-**My solution: [Link](./src/Solution.java)**  
+### **My solution: [Link](./src/Solution.java)**  
+
 ```java
 public class Solution {
     public static void main(String[] args) throws Exception {

@@ -1,4 +1,5 @@
-**Завдання:**  
+### **Завдання:** 
+
 У методі `main` з клавіатури зчитується 3 цілих числа: `start`, `end` (`start <= end`), `multiple`.  
 Допиши програму, щоб на екран виводилася сума чисел від `start` (включно) до `end` (не включно), кратних `multiple`.  
 Використай для цього цикл `for`.  
@@ -6,20 +7,18 @@
 
 ---
 
-**Вимоги:**  
+### **Вимоги:**  
+
 • Програма має вивести в консоль суму чисел від start (включно) до end (не включно), кратних multiple.  
 • У програмі потрібно використовувати цикл for.  
 • У циклі потрібно використовувати оператор continue.
 
 ---
 
-**Start code:**  
+### **Start code:**  
+
 ```java
 import java.util.Scanner;
-
-/* 
-Сума кратних чисел
-*/
 
 public class Solution {
     public static void main(String[] args) {
@@ -27,7 +26,6 @@ public class Solution {
         int start = scanner.nextInt();
         int end = scanner.nextInt();
         int multiple = scanner.nextInt();
-
         int sum = 0;
         //напишіть тут ваш код
 
@@ -37,7 +35,8 @@ public class Solution {
 ```
 ---
 
-**My solution: [Link](./src/Solution.java)**  
+### **My solution: [Link](./src/Solution.java)**  
+
 ```java
 import java.util.Scanner;
 

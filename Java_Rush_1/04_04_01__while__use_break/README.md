@@ -1,4 +1,5 @@
-**Завдання:**  
+### **Завдання:** 
+
 Вводимо дані з клавіатури й одразу виводимо їх на екран, доки не буде введено слово "`enough`".  
 Слово "`enough`" виводити не потрібно.  
 Для цього потрібно використовувати нескінченний цикл (`while(true)`).
@@ -8,7 +9,8 @@
 
 ---
 
-**Вимоги:**  
+### **Вимоги:**  
+
 • Програма повинна зчитувати дані з клавіатури.  
 • У програмі потрібно використовувати цикл while.  
 • Для завершення нескінченного циклу слід використати оператор break.  
@@ -16,30 +18,27 @@
 
 ---
 
-**Start code:**  
+### **Start code:**  
+
 ```java
 import java.util.Scanner;
-
-/* 
-Показуємо, що отримуємо
-*/
 
 public class Solution {
     public static void main(String[] args) {
         //напишіть тут ваш код
-
     }
 }
 ```
 
 ---
 
-**My solution: [Link](./src/Solution.java)**  
+### **My solution: [Link](./src/Solution.java)**  
+
 ```java
 import java.util.Scanner;
 
 public class Solution {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         String stop_word = "enough";
         Scanner scan = new Scanner(System.in);
         while (true) {

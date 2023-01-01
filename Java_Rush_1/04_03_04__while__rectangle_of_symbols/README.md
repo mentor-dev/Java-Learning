@@ -1,4 +1,5 @@
-### **Завдання:**  
+### **The task to solve:**  
+
 Використовуючи вкладені цикли `while` (цикл у циклі), виведи на екран заповнений прямокутник розміром `5` (висота) на `10` (ширина) з літер «`Q`».
 
 **Приклад виведення:**
@@ -12,7 +13,8 @@ QQQQQQQQQQ
 
 ---
 
-### **Вимоги:**  
+### **Requirements:**  
+
 • Програма повинна виводити текст на екран.  
 • Програма повинна виводити прямокутник висотою 5 і шириною 10, заповнений літерами 'Q'.  
 • У програмі потрібно використовувати вкладені цикли while (цикл у циклі).  
@@ -21,6 +23,7 @@ QQQQQQQQQQ
 ---
 
 ### **Start code:**  
+
 ```java
 public class Solution {
     public static void main(String[] args) {
@@ -32,6 +35,7 @@ public class Solution {
 ---
 
 ### **My solution: [Link](./src/Solution.java)**  
+
 ```java
 public class Solution {
     public static void main(String[] args) {

@@ -25,6 +25,6 @@
 [Q1_L10]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/10_Strings#start
 [Q1_L11]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/11_Objects#start
 [Q1_L12]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/12_Static#start
-[Q1_L12]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/13_Collections#start
+[Q1_L13]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/13_Collections#start
 [Q1_L14]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/14_Collections_2#start
 [Q1_L15]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/15_Exceptions#start

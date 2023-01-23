@@ -4,17 +4,27 @@
 
 ### Quest #1 - JavaRush Syntax course
 
-- [Level 4 - Loops][Q1_L4]
-- [Level 6 - Arrays]()
-- [Level 7 - Functions]()
-- [Level 8 - Data types]()
-- [Level 9 - Useful nuances]()
-- [Level 10 - Work with strings]()
-- [Level 11 - Objects]()
-- [Level 12 - Classes and static]()
-- [Level 13 - Collections, Generics]()
-- [Level 14 - Collections (part 2)]()
-- [Level 15 - Exceptions]()
+- [Level 4 - Loops][Q1_L04]
+- [Level 6 - Arrays][Q1_L06]
+- [Level 7 - Functions][Q1_L07]
+- [Level 8 - Data types][Q1_L08]
+- [Level 9 - Useful nuances][Q1_L09]
+- [Level 10 - Work with strings][Q1_L10]
+- [Level 11 - Objects][Q1_L11]
+- [Level 12 - Classes and static][Q1_L12]
+- [Level 13 - Collections, Generics][Q1_L13]
+- [Level 14 - Collections (part 2)][Q1_L14]
+- [Level 15 - Exceptions][Q1_L15]
 
 
-[Q1_L4]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/04_Loops#start
+[Q1_L04]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/04_Loops#start
+[Q1_L06]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/06_Arrays#start
+[Q1_L07]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions#start
+[Q1_L08]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/08_Data_types#start
+[Q1_L09]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/09_Useful_nuances#start
+[Q1_L10]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/10_Strings#start
+[Q1_L11]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/11_Objects#start
+[Q1_L12]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/12_Static#start
+[Q1_L12]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/13_Collections#start
+[Q1_L14]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/14_Collections_2#start
+[Q1_L15]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/15_Exceptions#start

@@ -19,19 +19,19 @@
 - [Lesson 06, Task 02 - constants][06_02]
 - [Lesson 06, Task 03 - constants][06_03]
 
-[01_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/01_01__functions_creation
-[01_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/01_02__functions_creation
-[02_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/02_01__function_parameters
-[02_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/02_02__function_parameters
-[02_03]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/02_03__array_reverse
-[02_04]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/02_04__functions_with_different_parameters
-[03_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/03_01__data_filtration
-[03_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/03_02__number_to_cube
-[03_03]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/03_03__raising_to_9th_degree
-[04_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/04_01__access_modifiers
-[04_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/04_02__access_modifiers
-[05_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/05_01__variables
-[05_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/05_02__variables
-[06_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/06_01__constants
-[06_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/06_02__constants
-[06_03]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/06_03__constants
+[01_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/01_01__functions_creation
+[01_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/01_02__functions_creation
+[02_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/02_01__function_parameters
+[02_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/02_02__function_parameters
+[02_03]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/02_03__array_reverse
+[02_04]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/02_04__functions_with_different_parameters
+[03_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/03_01__data_filtration
+[03_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/03_02__number_to_cube
+[03_03]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/03_03__raising_to_9th_degree
+[04_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/04_01__access_modifiers
+[04_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/04_02__access_modifiers
+[05_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/05_01__variables
+[05_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/05_02__variables
+[06_01]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/06_01__constants
+[06_02]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/06_02__constants
+[06_03]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/07_Functions/06_03__constants

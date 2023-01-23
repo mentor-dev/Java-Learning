@@ -1,21 +1,21 @@
 # <a name="start"></a> Tasks of Level #4 of JavaRush Syntax course
 
-### Level #4 - Loops
+### Level #4 - **Loops**
 
-- [Lesson 03 Task 04 - while__rectangle_of_symbols][03-04]
-- [Lesson 03 Task 05 - while__empty_rectangle_of_symbols][03-05]
-- [Lesson 04 Task 01 - while__use_break][04-01]
-- [Lesson 04 Task 02 - while__use_continue][04-02]
-- [Lesson 05 Task 02 - while__max_of_entered_values][05-02]
-- [Lesson 05 Task 03 - while__processing_of_entered_numbers][05-03]
-- [Lesson 06 Task 01 - for__even_numbers][06-01]
-- [Lesson 06 Task 02 - for__continue][06-02]
-- [Lesson 07 Task 01 - for__triangle_from_symbols][07-01]
-- [Lesson 08 Task 01 - do-while__input_and_output][08-01]
-- [Lesson 09 Task 01 - double__area_of_a_circle][09-01]
-- [Lesson 09 Task 02 - double__division_of_entered_numbers][09-02]
-- [Lesson 10 Task 01 - round__ms_to_kmh][10-01]
-- [Lesson 10 Task 02 - round__rounding_of_numbers][10-02]
+- [Lesson 03, Task 04 - while - draw rectangle of symbols][03-04]
+- [Lesson 03, Task 05 - while - draw empty rectangle of symbols][03-05]
+- [Lesson 04, Task 01 - while - use break][04-01]
+- [Lesson 04, Task 02 - while - use continue][04-02]
+- [Lesson 05, Task 02 - while - max of entered values][05-02]
+- [Lesson 05, Task 03 - while - processing of entered numbers][05-03]
+- [Lesson 06, Task 01 - for - even numbers][06-01]
+- [Lesson 06, Task 02 - for - continue][06-02]
+- [Lesson 07, Task 01 - for - triangle from symbols][07-01]
+- [Lesson 08, Task 01 - do-while - input and output][08-01]
+- [Lesson 09, Task 01 - double - area of a circle][09-01]
+- [Lesson 09, Task 02 - double - division of entered numbers][09-02]
+- [Lesson 10, Task 01 - round - m/s to km/h][10-01]
+- [Lesson 10, Task 02 - round - rounding of numbers][10-02]
 
 [03-04]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/04_Loops/03_04__while__rectangle_of_symbols
 [03-05]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/04_Loops/03_05__while__empty_rectangle_of_symbols

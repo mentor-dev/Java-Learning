@@ -9,7 +9,7 @@
 <details open="open">
     <summary><b>Tasks of quest # 1 - <a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1#start">JavaRush Syntax course</a></b></summary>
     <ul>
-        <li><a href="">Level 4 - Loops</a></li>
+        <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/04_Loops#start">Level 4 - Loops</a></li>
         <li><a href="">Level 6 - Arrays</a></li>
         <li><a href="">Level 7 - Functions</a></li>
         <li><a href="">Level 8 - Data types</a></li>

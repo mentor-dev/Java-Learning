@@ -20,5 +20,6 @@
         <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/13_Collections#start">Level 13 - Collections, Generics</a></li>
         <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/14_Collections_2#start">Level 14 - Collections (part 2)</a></li>
         <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/15_Exceptions#start">Level 15 - Exceptions</a></li>
+        <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/16_Input_Output#start">Level 16 - Input / Output</a></li>
     </ul>
 </details>

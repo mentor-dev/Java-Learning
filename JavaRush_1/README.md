@@ -15,6 +15,7 @@
 - [Level 13 - Collections, Generics][Q1_L13]
 - [Level 14 - Collections (part 2)][Q1_L14]
 - [Level 15 - Exceptions][Q1_L15]
+- [Level 16 - Input / Output][Q1_L16]
 
 
 [Q1_L04]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/04_Loops#start
@@ -28,3 +29,4 @@
 [Q1_L13]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/13_Collections#start
 [Q1_L14]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/14_Collections_2#start
 [Q1_L15]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/15_Exceptions#start
+[Q1_L16]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/16_Input_Output#start

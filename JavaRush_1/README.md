@@ -17,6 +17,7 @@
 - [Level 15 - Exceptions][Q1_L15]
 - [Level 16 - Input / Output][Q1_L16]
 - [Level 17 - Date and Time][Q1_L17]
+- [Level 18 - Acquaintance with OOP][Q1_L18]
 
 
 [Q1_L04]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/04_Loops#start
@@ -32,3 +33,4 @@
 [Q1_L15]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/15_Exceptions#start
 [Q1_L16]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/16_Input_Output#start
 [Q1_L17]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/17_Date_and_Time
+[Q1_L18]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/18_Acquaintance_with_OOP

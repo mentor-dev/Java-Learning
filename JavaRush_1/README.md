@@ -32,5 +32,5 @@
 [Q1_L14]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/14_Collections_2#start
 [Q1_L15]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/15_Exceptions#start
 [Q1_L16]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/16_Input_Output#start
-[Q1_L17]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/17_Date_and_Time
-[Q1_L18]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/18_Acquaintance_with_OOP
+[Q1_L17]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/17_Date_and_Time#start
+[Q1_L18]: https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/18_Acquaintance_with_OOP#start

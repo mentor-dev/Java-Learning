@@ -21,7 +21,7 @@
         <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/14_Collections_2#start">Level 14 - Collections (part 2)</a></li>
         <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/15_Exceptions#start">Level 15 - Exceptions</a></li>
         <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/16_Input_Output#start">Level 16 - Input / Output</a></li>
-        <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/17_Date_and_Time">Level 17 - Date and Time</a></li>
-        <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/18_Acquaintance_with_OOP">Level 18 - Acquaintance with OOP</a></li>
+        <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/17_Date_and_Time#start">Level 17 - Date and Time</a></li>
+        <li><a href="https://github.com/mentor-dev/Java-Learning/tree/main/JavaRush_1/18_Acquaintance_with_OOP#start">Level 18 - Acquaintance with OOP</a></li>
     </ul>
 </details>

@@ -1,4 +1,4 @@
-# <a name="start"></a> Tasks of Level #16 of JavaRush Syntax course
+# <a name="start"></a> Tasks of Level #17 of JavaRush Syntax course
 
 ### Level #17 - **Date and Time**
 
